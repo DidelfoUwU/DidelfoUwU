@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">💫 Hola, soy Sergio 💫</h1>
     <h3>
-        Me apasiona el mundo de la programación, en el cual me siento que tengo mucho que aportar.
+        Me apasiona el mundo de la programación, en el cual siento que tengo mucho que aportar.
         Cuando me preguntan y no se algo, respondo "no se aun", en un par de horas te lo se responder.
         Profesionalmente me defino como pragmatico, comprometido con el trabajo.
     </h3>
